@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "apple-a-day-emulator",
+  "private_key_id": "04f43324d9f27455c5d77cfd7ae354d4cb505bcb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCodeFsGhgpEH2W\n7E1BmRG23eiGwReQn8oMpEaU5izzl9wpPW/8Mzeb8PZYT0T0ACUFIacOV083w4n8\nYu7wcwWOBfxNV+Ui9TAT/XZnA1Iw9H8oect6eTjQNh4fmIbCF4ScdqouUSGus8yg\nF5uIBYnBSl+eO7xBe75/YR01L2RRXBTHWnprCFApufA4E7Zc4ofGCyupVw39TgDC\nyIAQ3JSl2RvHKyuLZNFJBfVAetdecHAXByTKgWCGBtj1ckkDb5G3epzC1TR4ODWS\nSfOI4qqwxJBdW20Ce5Hu7vahlNMtNwpvRrnwf0B5KDuYZ8OdMZCpXzA8XtP1Q6Kj\niz574FAHAgMBAAECggEAHaZ54bwKCphDcp/uzR/y9TvDpIwx6JunRWhYn/aPbOSK\ntJuCrWIaZJEZ2ttA6K1p1qhgre6CG++Hxutm4N1t2dyF1tskkm2TY8FV6LW17rXp\n96bQQKM7c7JCxQ7kkR7wkVV1iKdxBT3SQ09EacGHyISdpc0fymrMUcE3EdhgkM0a\nFQVka1/qfWVlDhjRZ3vfCegeujRNAAoOP+IgRs8yKmAo5N+n8ApLgCEHoS548awj\nZYRiKY3nsuBTTLacBiN938okyoi8uS0Qb1L/WNgsbaS4MALn9zNnirUmMLQ9gCpp\n/O/xGBxf31jdfGCdqxNXHnX7YyDQ02MIs5/w7v5FKQKBgQDYWhrL3msnfjs29fth\nLiAMzPZF+FhaISJDks5YdlYYkvxJTD8zKohfV6kd+/npOLJIJSuzCsIBnC9+TK4J\n4cId0zISZODQWziH8FnmivB8eeknDTSj7l3UtEHy9YzGmIVB+KLPEaS1XCBoFkLs\nJNGrdfpE/y11gPRHdZSzV0EFLQKBgQDHVQDMYdyzjH5WHBSo46ERXCB9gjukErLY\nduBie+NXkz5mduotP+YcADhtT91GHlnAfLQaSVg7liZQZ7KhhSilxq1UZmYJkQIK\nFNKskMP3zOFzo5L6eoIJWY25WY0urtcQfsO98zd9SwsMRgUara7Jy+He5ahqPAfk\nRnjwaaOSgwKBgDS6IPW2ix7g4MWQRWd1ulHkUdDTqZStppAZYzij/m+Wwu2KK4zo\nvLufvZOVKV7xdmGmzXOhF48U5W4+edvmrUxfgECDXVbqJGjc5swM6HctrujZiw64\ntR11oOz5cwmjejaNxf/5KM8aWLuFUWIDxyWmZwwRtJ6CgwY3Xbonda0xAoGAXHAX\nBrD7YGhuzhAHpKqrLxnCF3Ilpljlh2zZcdJyA1LNRUcwIfvYAnQ3trmqq7G3fYRX\nITmSKU/gRLlSJYVS7E3OY6149EbC41n0uQIJXwksJCxfJLlbRGq7RpE438VFBulC\nbPw1Z209mlt+Unjo7bwW6v8lst5T6pCj1RmoOXECgYEAq/kpFbVRbQCP20AJoccO\nB64cN/cOQZPpaoNykKB2TQCbHQwYDhJqM4U4aEUreLkCQDSXAgSOt2RHi7P4o5vP\nf4W2V6k4tCjky/NDomFRPuCaIcevI0LQt3I9hUqxgUp87SnZnGtyHPXtTTty3MQX\niABIvJcKMt9EGEP3Pm/c+8M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "emulator@apple-a-day-emulator.iam.gserviceaccount.com",
+  "client_id": "110076085053012467909",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/emulator%40apple-a-day-emulator.iam.gserviceaccount.com"
+}
